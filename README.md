@@ -5,3 +5,4 @@ A collection of all Small Projects, done in a Jupyter Notebook, for learning
 2. Generating Handwritten Digits using GANs trained on MNIST dataset.
 
 [ADD other projects after cleaning up]
+[Clean up the MISC and make it readable]
